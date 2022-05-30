@@ -1,0 +1,25 @@
+{
+"total_size": 2,
+"type-id": 2,
+"offset": 0,
+"products": [
+{
+  "id": 1,
+  "name": "Momo",
+  "description": "The Momo is filled with a myriad of succulent offerings such as Ground chicken, Onions, Garlic, Ginger, Cilantro and a slew of Nepalese Spices.The fillling itself is enclosed in the wrapper, Often times in a round or crescent shape. Once Wrapped it is then steamed and plated, paired with sauces that complement the Momo",
+  "price": "Rs 120",
+  "stars": "5",
+  "img": "https://www.google.com/search?q=momo&tbm=isch&chips=q:momo,g_1:nepali:W7CojTpjs38%3D&rlz=1C1BNSD_enNP997NP997&hl=en&sa=X&ved=2ahUKEwjfhPW0nob4AhXMgGMGHRWcDEUQ4lYoAnoECAEQIA&biw=1349&bih=657#imgrc=_hnUj6vAdlz2CM",
+  "type-id": 2
+ },
+ {
+  "id": 2,
+  "name": "Chowmein",
+  "description": "The Momo is filled with a myriad of succulent offerings such as Ground chicken, Onions, Garlic, Ginger, Cilantro and a slew of Nepalese Spices.The fillling itself is enclosed in the wrapper, Often times in a round or crescent shape. Once Wrapped it is then steamed and plated, paired with sauces that complement the Momo",
+  "price": "Rs 100",
+  "stars": "5",
+  "img": "https://www.google.com/search?q=chow+mein&rlz=1C1BNSD_enNP997NP997&sxsrf=ALiCzsaMGWR1VLlblWgUBQAPvG-J8K-M1g:1653880112849&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoj4LFn4b4AhXITmwGHVfyCIUQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=1t8eutGAuKygSM",
+  "type-id": 2
+  }
+ ]
+}
